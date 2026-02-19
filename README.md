@@ -1,2 +1,0 @@
-# ketolab-privacy
-ketolab-privacy
